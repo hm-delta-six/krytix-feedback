@@ -33,7 +33,7 @@ angefragt hat, stimme mit einem 👍 ab. Das hilft bei der Priorisierung.
 
 - Supportanfragen zu deinem Account → per E-Mail direkt an uns
 - Sicherheitslücken → **nicht** als öffentliches Issue melden,
-  sondern per E-Mail (Adresse folgt)
+  sondern per E-Mail (support@allcloud.site)
 
 ---
 
