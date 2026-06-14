@@ -1,6 +1,6 @@
-# AllCloud — Feedback & Feature Requests
+# Krytix — Feedback & Feature Requests
 
-> **AllCloud** ist ein browser-basierter Multi-Cloud-Dateimanager.
+> **Krytix** ist ein browser-basierter Multi-Cloud-Dateimanager.
 > Dieses Repository dient ausschließlich als Feedback- und Feature-Request-Kanal.
 > Der Quellcode ist in einem separaten privaten Repository.
 
@@ -33,7 +33,7 @@ angefragt hat, stimme mit einem 👍 ab. Das hilft bei der Priorisierung.
 
 - Supportanfragen zu deinem Account → per E-Mail direkt an uns
 - Sicherheitslücken → **nicht** als öffentliches Issue melden,
-  sondern per E-Mail (support@allcloud.site)
+  sondern per E-Mail (support@krytix.io)
 
 ---
 
